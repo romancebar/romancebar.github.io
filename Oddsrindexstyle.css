@@ -1,0 +1,27 @@
+body {
+	background-color: lightblue;
+}
+.leaderboard {
+	display:flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+h1 {
+	color: red;
+	text-align: center;
+	background-color: rgba(0, 0, 250, 0.25);
+	border: 5px solid yellow;
+	font-family: 'Work Sans', sans-serif;
+}
+h1 + p {
+	text-align: right
+}
+h2 {
+	color: red;
+	font-family: 'Work Sans', sans-serif;
+}
+
+h3 {
+	color: red;
+	font-family: 'Work Sans', sans-serif;
+}

@@ -1,0 +1,27 @@
+body {
+	background-color: lightblue;
+}
+.jumbotron {
+	background-image: url(https://a.cdn-hotels.com/cos/heroimage/Las_Vegas_0_535829219.jpg);
+	background-size: cover;
+	height: 350px;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	background-color: red;
+	border: 2px solid white;
+	font-family: 'Work Sans', sans-serif;
+	transition: 1s;
+}
+
+h2 {
+	color: red;
+	font-family: 'Work Sans', sans-serif;
+}
+
+h3 {
+	color: red;
+	font-family: 'Work Sans', sans-serif;
+}
